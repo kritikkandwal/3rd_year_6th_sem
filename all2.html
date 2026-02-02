@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DOM Master Playground</title>
+  <style>
+    :root { --card:#f9f9f9; --def:#eef7ff; --border:#d7d7d7; --accent:#1e88e5; }
+    * { box-sizing: border-box; }
+    body { font-family: Arial, sans-serif; padding: 24px; background:#fafafa; color:#222; }
+    h1 { margin-top:0; }
+    .example { background: var(--card); border:1px solid var(--border); border-radius:12px; padding:16px; margin:18px 0; }
+    .definition { background: var(--def); border-left:4px solid var(--accent); padding:10px 12px; font-weight:600; margin-bottom:12px; border-radius:8px; }
+    button { cursor:pointer; padding:8px 12px; border-radius:8px; border:1px solid var(--border); background:#fff; margin:6px 6px 0 0; }
+    .sandbox { border:1px dashed var(--border); border-radius:8px; padding:10px; margin-top:10px; background:#fff; }
+    .tag-demo p { display:inline-block; padding:6px 10px; margin:4px; background:#f1f1f1; border-radius:8px; }
+    .highlight { outline:2px solid orange; background:#fff3cd !important; }
+    code { background:#f0f0f0; padding:2px 6px; border-radius:6px; }
+    .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+    .mini { font-size:12px; opacity:0.8; }
+    .box { width:120px; height:60px; background:#eee; border-radius:10px; display:flex; align-items:center; justify-content:center; }
+  </style>
+</head>
+<body>
+  <h1>DOM Manipulation — All-in-One Demo</h1>
+
+  <!-- 1) Selecting Elements -->
+  <div class="example" id="selBox">
+    <div class="definition">1️⃣ Selecting Elements — Find elements in the page so you can read/change them.</div>
+    <div class="sandbox">
+      <div class="row">
+        <p id="byIdTarget" class="chip">#byIdTarget</p>
+        <p class="byClass chip">.byClass</p>
+        <p class="byClass chip">.byClass</p>
+        <p class="byClass chip">.byClass</p>
+        <p class="byTag chip">I am a &lt;p&gt; tag</p>
+      </div>
+      <div class="row mini"><span>Old school:</span>
+        <code>getElementById</code> · <code>getElementsByClassName</code> · <code>getElementsByTagName</code>
+      </div>
+      <div class="row mini"><span>Modern:</span>
+        <code>querySelector</code> · <code>querySelectorAll</code>
+      </div>
+      <div class="row">
+        <button onclick="demoGetById()">getElementById()</button>
+        <button onclick="demoGetByClass()">getElementsByClassName()</button>
+        <button onclick="demoGetByTag()">getElementsByTagName()</button>
+        <button onclick="demoQS()">querySelector()</button>
+        <button onclick="demoQSA()">querySelectorAll()</button>
+        <button onclick="clearHighlights('#selBox')">Clear</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2) Changing Content -->
+  <div class="example" id="contentBox">
+    <div class="definition">2️⃣ Changing Content — <code>.innerText</code> changes text only; <code>.innerHTML</code> sets HTML.</div>
+    <div class="sandbox">
+      <p id="contentTarget">I am <em>original</em> content.</p>
+      <div class="row">
+        <button onclick="setInnerText()">innerText = "New Text"</button>
+        <button onclick="setInnerHTML()">innerHTML = &lt;strong&gt;New HTML&lt;/strong&gt;</button>
+        <button onclick="resetContent()">Reset</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3) Changing Styles -->
+  <div class="example" id="styleBox">
+    <div class="definition">3️⃣ Changing Styles — Edit inline styles via <code>element.style.*</code>.</div>
+    <div class="sandbox row" style="gap:14px;">
+      <div id="styleTarget" class="box">#box</div>
+      <div>
+        <button onclick="setBg()">backgroundColor = "red"</button>
+        <button onclick="setFont()">fontSize = "20px"</button>
+        <button onclick="setBorder()">border = "2px solid black"</button>
+        <button onclick="resetStyle()">Reset</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4) Adding/Removing Classes -->
+  <div class="example" id="classBox">
+    <div class="definition">4️⃣ Adding / Removing Classes — Use <code>classList.add()</code>, <code>remove()</code>, <code>toggle()</code>.</div>
+    <div class="sandbox row" style="gap:14px;">
+      <div id="classTarget" class="box" style="background:#e7f7ff;">.classList demo</div>
+      <div>
+        <button onclick="addClass()">classList.add('highlight')</button>
+        <button onclick="removeClass()">classList.remove('highlight')</button>
+        <button onclick="toggleClass()">classList.toggle('highlight')</button>
+        <button onclick="clearHighlights('#classBox')">Clear</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5) Creating & Adding Elements -->
+  <div class="example" id="createBox">
+    <div class="definition">5️⃣ Creating & Adding — <code>document.createElement()</code> then <code>parent.appendChild()</code>.</div>
+    <div class="sandbox">
+      <div id="createContainer" class="row"></div>
+      <div class="row">
+        <button onclick="addOne()">Add a &lt;p&gt;</button>
+        <button onclick="addMany()">Add 3 &lt;li&gt; into &lt;ul&gt;</button>
+        <button onclick="clearCreated()">Clear</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6) Removing Elements (modern + old way) -->
+  <div class="example" id="removeBox">
+    <div class="definition">6️⃣ Removing Elements — Modern: <code>element.remove()</code>; Old: <code>parent.removeChild(child)</code>.</div>
+    <div class="sandbox">
+      <div id="removeModernWrap" class="row">
+        <p id="removeModern">Remove me (modern)</p>
+        <button onclick="removeModern()">.remove()</button>
+      </div>
+      <hr/>
+      <div id="removeOldParent" class="row">
+        <p id="removeOld">Remove me (old way)</p>
+        <button onclick="removeOldWay()">parent.removeChild(child)</button>
+      </div>
+      <div class="row">
+        <button onclick="resetRemovals()">Reset</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7) Event Handling with addEventListener -->
+  <div class="example" id="eventBox">
+    <div class="definition">7️⃣ Event Handling — Use <code>addEventListener('event', handler)</code> instead of inline HTML events.</div>
+    <div class="sandbox">
+      <div class="row">
+        <button id="myBtn">Attach Click Listener</button>
+        <button onclick="detachListener()">Detach Listener</button>
+      </div>
+      <p id="eventLog" class="mini">No events yet.</p>
+    </div>
+  </div>
+
+  <script>
+    // Helpers
+    function clearHighlights(scopeSelector) {
+      document.querySelectorAll(scopeSelector + ' .highlight').forEach(el => el.classList.remove('highlight'));
+    }
+
+    // (1) SELECTING ELEMENTS
+    function highlight(el){ el.classList.add('highlight'); }
+    function demoGetById() {
+      clearHighlights('#selBox');
+      const el = document.getElementById('byIdTarget');
+      highlight(el);
+    }
+    function demoGetByClass() {
+      clearHighlights('#selBox');
+      const list = document.getElementsByClassName('byClass'); // HTMLCollection (live)
+      for (const el of list) el.classList.add('highlight');
+    }
+    function demoGetByTag() {
+      clearHighlights('#selBox');
+      const ps = document.getElementsByTagName('p'); // HTMLCollection
+      // only highlight those inside the selection box:
+      const container = document.getElementById('selBox');
+      [...ps].forEach(p => { if (container.contains(p) && p.classList.contains('byTag')) highlight(p); });
+    }
+    function demoQS() {
+      clearHighlights('#selBox');
+      const firstClass = document.querySelector('#selBox .byClass'); // first match
+      highlight(firstClass);
+    }
+    function demoQSA() {
+      clearHighlights('#selBox');
+      const allClass = document.querySelectorAll('#selBox .byClass'); // NodeList (static)
+      allClass.forEach(el => el.classList.add('highlight'));
+    }
+
+    // (2) CHANGING CONTENT
+    function setInnerText() {
+      const t = document.getElementById('contentTarget');
+      t.innerText = 'New Text (plain, tags not parsed)';
+    }
+    function setInnerHTML() {
+      const t = document.getElementById('contentTarget');
+      t.innerHTML = '<strong>New HTML</strong> (tags are parsed)';
+    }
+    function resetContent() {
+      const t = document.getElementById('contentTarget');
+      t.innerHTML = 'I am <em>original</em> content.';
+    }
+
+    // (3) CHANGING STYLES
+    const styleTarget = document.getElementById('styleTarget');
+    const styleDefault = { bg: styleTarget.style.backgroundColor, fs: styleTarget.style.fontSize, bd: styleTarget.style.border };
+    function setBg(){ styleTarget.style.backgroundColor = 'red'; }
+    function setFont(){ styleTarget.style.fontSize = '20px'; }
+    function setBorder(){ styleTarget.style.border = '2px solid black'; }
+    function resetStyle(){
+      styleTarget.style.backgroundColor = styleDefault.bg || '';
+      styleTarget.style.fontSize = styleDefault.fs || '';
+      styleTarget.style.border = styleDefault.bd || '';
+    }
+
+    // (4) CLASSLIST
+    function addClass(){ document.getElementById('classTarget').classList.add('highlight'); }
+    function removeClass(){ document.getElementById('classTarget').classList.remove('highlight'); }
+    function toggleClass(){ document.getElementById('classTarget').classList.toggle('highlight'); }
+
+    // (5) CREATE & ADD
+    function addOne() {
+      const p = document.createElement('p');
+      p.textContent = 'I am new here!';
+      document.getElementById('createContainer').appendChild(p);
+    }
+    function addMany() {
+      const ul = document.createElement('ul');
+      for (let i=1;i<=3;i++){
+        const li = document.createElement('li');
+        li.textContent = 'Item ' + i;
+        ul.appendChild(li);
+      }
+      document.getElementById('createContainer').appendChild(ul);
+    }
+    function clearCreated(){
+      document.getElementById('createContainer').innerHTML = '';
+    }
+
+    // (6) REMOVE (modern + old)
+    function removeModern() {
+      const el = document.getElementById('removeModern');
+      if (el) el.remove();
+    }
+    function removeOldWay() {
+      const parent = document.getElementById('removeOldParent');
+      const child = document.getElementById('removeOld');
+      if (parent && child) parent.removeChild(child);
+    }
+    function resetRemovals() {
+      const modernWrap = document.getElementById('removeModernWrap');
+      if (!document.getElementById('removeModern')) {
+        const p = document.createElement('p'); p.id='removeModern'; p.textContent='Remove me (modern)';
+        modernWrap.insertBefore(p, modernWrap.querySelector('button'));
+      }
+      const oldParent = document.getElementById('removeOldParent');
+      if (!document.getElementById('removeOld')) {
+        const p2 = document.createElement('p'); p2.id='removeOld'; p2.textContent='Remove me (old way)';
+        oldParent.insertBefore(p2, oldParent.querySelector('button'));
+      }
+    }
+
+    // (7) EVENTS — addEventListener
+    const btn = document.getElementById('myBtn');
+    const log = document.getElementById('eventLog');
+    let attached = false;
+    function onClick() {
+      document.body.style.backgroundColor = 'lightblue';
+      log.textContent = 'Button clicked → background changed via addEventListener.';
+    }
+    btn.addEventListener('click', () => {
+      if (!attached) { btn.addEventListener('click', onClick); attached = true; log.textContent = 'Listener attached. Click again to trigger.'; }
+      else { onClick(); }
+    });
+    function detachListener() {
+      if (attached) {
+        btn.removeEventListener('click', onClick);
+        attached = false;
+        document.body.style.backgroundColor = '';
+        log.textContent = 'Listener detached.';
+      }
+    }
+  </script>
+</body>
+</html>
