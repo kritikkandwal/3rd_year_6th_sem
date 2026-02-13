@@ -34,6 +34,7 @@
 | [0231-power-of-two](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
 | [1323-maximum-69-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1323-maximum-69-number) |
 | [2485-find-the-pivot-integer](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
