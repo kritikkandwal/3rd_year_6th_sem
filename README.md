@@ -12,6 +12,7 @@
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
@@ -90,6 +91,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 ## String
