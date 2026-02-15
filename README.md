@@ -16,6 +16,7 @@
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
+| [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3731-find-missing-elements) |
@@ -103,4 +104,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
