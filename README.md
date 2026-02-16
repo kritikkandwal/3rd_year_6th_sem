@@ -19,6 +19,7 @@
 | [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3731-find-missing-elements) |
 ## Hash Table
