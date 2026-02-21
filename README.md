@@ -21,6 +21,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1720-decode-xored-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1720-decode-xored-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -88,6 +89,7 @@
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1323-maximum-69-number) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
