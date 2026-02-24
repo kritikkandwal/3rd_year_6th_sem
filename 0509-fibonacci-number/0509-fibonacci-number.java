@@ -12,6 +12,7 @@ class Solution {
         int a=0;
         int b=1;
         for(int i=2;i<num+1;i++){
+            // arr[i]=arr[i-1]+arr[i+1];
             arr[i]=a+b;
             a=b;
             b=arr[i];
