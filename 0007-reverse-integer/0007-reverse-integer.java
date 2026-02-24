@@ -5,13 +5,12 @@ class Solution {
         while(x!=0){
             long r=x%10;
             d=d*10+r;
-            if(d>Integer.MAX_VALUE || d<Integer.MIN_VALUE){
-            return 0;
-        }
             x=x/10;
             
         }
-        
+        if(d>Integer.MAX_VALUE || d<Integer.MIN_VALUE){
+            return 0;
+        }
         return (int) d;
     }
 }
