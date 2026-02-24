@@ -47,6 +47,7 @@
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2485-find-the-pivot-integer) |
@@ -84,6 +85,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
+| [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0231-power-of-two](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
+| [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
