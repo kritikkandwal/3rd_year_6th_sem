@@ -41,6 +41,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
