@@ -45,6 +45,7 @@
 | [0231-power-of-two](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
@@ -150,5 +151,10 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2396-strictly-palindromic-number) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
