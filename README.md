@@ -87,6 +87,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0516-longest-palindromic-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0014-longest-common-prefix](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0014-longest-common-prefix) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0516-longest-palindromic-subsequence) |
 ## Trie
 |  |
 | ------- |
