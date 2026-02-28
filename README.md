@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0035-search-insert-position) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
