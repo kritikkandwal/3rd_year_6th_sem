@@ -71,6 +71,7 @@
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0461-hamming-distance) |
 | [1720-decode-xored-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1720-decode-xored-array) |
 ## Sorting
 |  |
