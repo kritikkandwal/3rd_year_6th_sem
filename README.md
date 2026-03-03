@@ -19,6 +19,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
+| [0999-available-captures-for-rook](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1720-decode-xored-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1720-decode-xored-array) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
+| [0999-available-captures-for-rook](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0999-available-captures-for-rook) |
 ## Counting Sort
 |  |
 | ------- |
@@ -167,4 +169,8 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0401-binary-watch) |
+## Matrix
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
