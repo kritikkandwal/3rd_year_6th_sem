@@ -19,6 +19,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
+| [0908-smallest-range-i](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0908-smallest-range-i) |
 | [0999-available-captures-for-rook](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0999-available-captures-for-rook) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1030-matrix-cells-in-distance-order) |
@@ -52,6 +53,7 @@
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
+| [0908-smallest-range-i](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1030-matrix-cells-in-distance-order) |
 | [1323-maximum-69-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1323-maximum-69-number) |
