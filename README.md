@@ -52,6 +52,7 @@
 | [0292-nim-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
+| [0492-construct-the-rectangle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 | [0908-smallest-range-i](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1025-divisor-game) |
