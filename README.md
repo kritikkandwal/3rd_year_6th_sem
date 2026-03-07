@@ -68,6 +68,7 @@
 | [0035-search-insert-position](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
@@ -188,4 +189,8 @@
 |  |
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1030-matrix-cells-in-distance-order) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
