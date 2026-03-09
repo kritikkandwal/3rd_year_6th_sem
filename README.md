@@ -96,6 +96,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
@@ -181,6 +182,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
@@ -195,4 +197,16 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
