@@ -221,4 +221,8 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
