@@ -142,6 +142,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0290-word-pattern) |
@@ -235,4 +237,8 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0384-shuffle-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
