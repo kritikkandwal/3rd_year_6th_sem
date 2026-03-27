@@ -31,6 +31,7 @@
 | [1720-decode-xored-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1720-decode-xored-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-find-missing-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3731-find-missing-elements) |
@@ -68,6 +69,7 @@
 | [1323-maximum-69-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1323-maximum-69-number) |
 | [2396-strictly-palindromic-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2485-find-the-pivot-integer) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
@@ -177,6 +179,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
 | [0999-available-captures-for-rook](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0999-available-captures-for-rook) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Counting Sort
 |  |
 | ------- |
@@ -209,6 +212,7 @@
 | [0064-minimum-path-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0064-minimum-path-sum) |
 | [0999-available-captures-for-rook](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1030-matrix-cells-in-distance-order) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Geometry
 |  |
 | ------- |
