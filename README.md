@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0035-search-insert-position) |
@@ -94,6 +95,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0015-3sum) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
@@ -144,6 +146,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
