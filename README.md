@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0064-minimum-path-sum) |
+| [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
@@ -86,6 +87,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
@@ -210,6 +212,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0401-binary-watch) |
 ## Matrix
