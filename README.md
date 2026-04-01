@@ -258,4 +258,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Linked List
+|  |
+| ------- |
+| [0092-reverse-linked-list-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0092-reverse-linked-list-ii) |
 <!---LeetCode Topics End-->
