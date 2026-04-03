@@ -61,6 +61,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
 | [0384-shuffle-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0384-shuffle-an-array) |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
