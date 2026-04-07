@@ -31,6 +31,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1030-matrix-cells-in-distance-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1652-defuse-the-bomb](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1652-defuse-the-bomb) |
 | [1720-decode-xored-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1720-decode-xored-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
+| [1652-defuse-the-bomb](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1652-defuse-the-bomb) |
 ## Recursion
 |  |
 | ------- |
