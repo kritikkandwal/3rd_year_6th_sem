@@ -31,6 +31,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1030-matrix-cells-in-distance-order) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1652-defuse-the-bomb) |
 | [1720-decode-xored-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1720-decode-xored-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -53,6 +54,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0500-keyboard-row) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 | [3731-find-missing-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3731-find-missing-elements) |
 ## Math
@@ -87,6 +89,7 @@
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -127,6 +130,7 @@
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-divisor-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1025-divisor-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +149,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1652-defuse-the-bomb) |
 | [3208-alternating-groups-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3208-alternating-groups-ii) |
 ## Recursion
