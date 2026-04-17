@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -227,6 +228,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0401-binary-watch](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0401-binary-watch) |
