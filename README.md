@@ -120,6 +120,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0072-edit-distance) |
@@ -180,6 +181,7 @@
 | [0014-longest-common-prefix](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0072-edit-distance) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0032-longest-valid-parentheses) |
 | [0682-baseball-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
