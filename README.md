@@ -35,6 +35,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1652-defuse-the-bomb) |
 | [1720-decode-xored-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1720-decode-xored-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -133,6 +134,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-divisor-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
