@@ -55,6 +55,7 @@
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0500-keyboard-row) |
+| [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
@@ -256,6 +257,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
 ## Database
 |  |
 | ------- |
@@ -286,4 +289,8 @@
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
 <!---LeetCode Topics End-->
