@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0384-shuffle-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0384-shuffle-an-array) |
+| [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0500-keyboard-row) |
@@ -92,6 +93,7 @@
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
@@ -131,6 +133,7 @@
 | [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-divisor-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1025-divisor-game) |
@@ -141,6 +144,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
+| [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1323-maximum-69-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1323-maximum-69-number) |
@@ -148,6 +152,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
 | [2485-find-the-pivot-integer](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Sliding Window
