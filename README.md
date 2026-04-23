@@ -24,6 +24,7 @@
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0384-shuffle-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0500-keyboard-row) |
@@ -134,6 +135,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0516-longest-palindromic-subsequence) |
 | [1025-divisor-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1025-divisor-game) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0413-arithmetic-slices) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1652-defuse-the-bomb) |
 | [3208-alternating-groups-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/3208-alternating-groups-ii) |
