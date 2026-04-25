@@ -73,6 +73,7 @@
 | [0292-nim-game](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0367-valid-perfect-square) |
 | [0384-shuffle-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0384-shuffle-an-array) |
 | [0492-construct-the-rectangle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0492-construct-the-rectangle) |
@@ -133,6 +134,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0413-arithmetic-slices) |
@@ -245,6 +247,7 @@
 | [0051-n-queens](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0401-binary-watch) |
 ## Matrix
 |  |
