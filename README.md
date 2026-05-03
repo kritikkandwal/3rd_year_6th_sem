@@ -285,6 +285,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0197-rising-temperature) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1757-recyclable-and-low-fat-products) |
 ## Design
