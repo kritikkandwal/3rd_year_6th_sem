@@ -183,6 +183,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0086-partition-list](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0283-move-zeroes) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
 ## Depth-First Search
