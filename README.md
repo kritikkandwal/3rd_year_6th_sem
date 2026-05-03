@@ -49,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
@@ -308,5 +309,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
 | [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
