@@ -14,6 +14,7 @@
 | [0064-minimum-path-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0278-first-bad-version) |
