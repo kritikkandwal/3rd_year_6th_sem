@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0342-power-of-four) |
@@ -322,4 +323,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
