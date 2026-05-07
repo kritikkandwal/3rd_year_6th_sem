@@ -14,6 +14,7 @@
 | [0064-minimum-path-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
@@ -137,6 +139,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0357-count-numbers-with-unique-digits) |
@@ -204,6 +207,7 @@
 | [0038-count-and-say](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0097-interleaving-string) |
+| [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0290-word-pattern](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0290-word-pattern) |
@@ -214,6 +218,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0014-longest-common-prefix) |
+| [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +239,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0509-fibonacci-number) |
 ## Brainteaser
@@ -254,6 +260,7 @@
 | [0051-n-queens](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0401-binary-watch) |
 ## Matrix
