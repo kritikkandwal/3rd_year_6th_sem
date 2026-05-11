@@ -282,6 +282,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
 ## Binary Search Tree
@@ -293,6 +294,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0095-unique-binary-search-trees-ii) |
+| [0100-same-tree](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
 ## Database
@@ -323,12 +325,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0508-most-frequent-subtree-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0508-most-frequent-subtree-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0100-same-tree) |
 | [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
 ## Graph Theory
 |  |
