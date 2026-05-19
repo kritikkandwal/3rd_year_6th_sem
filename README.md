@@ -318,6 +318,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0092-reverse-linked-list-ii) |
@@ -341,5 +342,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0191-number-of-1-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
