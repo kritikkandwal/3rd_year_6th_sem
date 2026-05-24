@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0018-4sum) |
@@ -51,6 +52,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
