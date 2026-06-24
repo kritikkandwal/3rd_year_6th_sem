@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
@@ -197,6 +199,7 @@
 | [0086-partition-list](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [2396-strictly-palindromic-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/2396-strictly-palindromic-number) |
