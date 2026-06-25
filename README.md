@@ -60,6 +60,7 @@
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
@@ -127,6 +128,7 @@
 | [0018-4sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
@@ -217,6 +219,7 @@
 | [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0500-keyboard-row) |
