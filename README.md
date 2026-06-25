@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0377-combination-sum-iv) |
 | [0384-shuffle-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0410-split-array-largest-sum) |
@@ -63,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0500-keyboard-row) |
@@ -131,6 +133,7 @@
 | [0242-valid-anagram](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -245,6 +248,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Memoization
 |  |
@@ -355,12 +359,22 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
