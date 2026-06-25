@@ -18,6 +18,7 @@
 | [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@
 | [0133-clone-graph](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0133-clone-graph) |
 | [0140-word-break-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0242-valid-anagram) |
@@ -128,6 +130,7 @@
 | ------- |
 | [0015-3sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0242-valid-anagram) |
@@ -247,6 +250,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -358,6 +362,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/kritikkandwal/3rd_year_6th_sem/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
